@@ -1,4 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead">
+</body>
 <img align="center" src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Kamo</h1>
 <h3 align="center">A passionate Full Stack Developer from South Africa</h3>
