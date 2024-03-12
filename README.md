@@ -1,7 +1,5 @@
 
-<section class="banner"style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;>
-  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead">
-</section>
+![MasterHead](https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif)
 <h1 align="center">Hi 👋, I'm Kamo</h1>
 <h3 align="center">A passionate Full Stack Developer from South Africa</h3>
 <img align="right" alt="Programmer" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
