@@ -1,13 +1,5 @@
-<style>
-  .banner {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
-</style>
-<section class="banner">
+
+<section class="banner"style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;>
   <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="MasterHead">
 </section>
 <h1 align="center">Hi 👋, I'm Kamo</h1>
