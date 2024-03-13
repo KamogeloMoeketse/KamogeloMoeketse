@@ -18,10 +18,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
 
 ### :woman_technologist: About Me :
 <img align="right" alt="Programmer" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on **ShutterSphere**
 
