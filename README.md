@@ -21,6 +21,7 @@
 
 ### :woman_technologist: About Me :
 <img align="right" alt="Programmer" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on **ShutterSphere**
