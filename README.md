@@ -14,13 +14,13 @@
 ### :woman_technologist: About Me :
 <img align="right" alt="Programmer" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently working on **Occupi**
+- 🔭 I’m currently working on a private project
 
-- 🌱 I’m currently learning **GoLang, React Native**
+- 🌱 I’m currently learning **AWS, Angular 19**
 
 - 📫 How to reach me **kamogelomoeketse@gmail.com**
 
-- ⚡ Fun fact **I have a podcast.**
+- ⚡ Fun fact **I can solve a rubiks cube.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
