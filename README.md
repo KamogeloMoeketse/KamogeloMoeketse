@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently working on a private project
 
-- 🌱 I’m currently learning **AWS, Angular 19**
+- 🌱 I’m currently learning **Google Cloud Integration, AWS, Nextjs and Angular 20**
 
 - 📫 How to reach me **kamogelomoeketse@gmail.com**
 
-- ⚡ Fun fact **I can solve a rubiks cube.**
+- ⚡ Fun fact **I can solve a rubiks cube in less than a minute.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
